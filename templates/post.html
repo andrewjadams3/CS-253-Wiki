@@ -1,0 +1,12 @@
+<div class="post">
+  <div class="post-heading">
+  </div>
+
+  <div class="post-content">
+    {{p._render_text | safe}}
+  </div>
+  
+  <div class="post-date">
+    Edited by <b>{{p.author}}</b> on {{p.created.strftime("%b %d, %Y")}}
+  </div>
+</div>
