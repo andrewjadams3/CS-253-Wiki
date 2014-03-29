@@ -53,16 +53,14 @@ body {
 	right: 0;
 	bottom: 10px;
 	left: 0;
+	height: 500px;
+	width: 800px;
 }
 
 .main-edit textarea {
 	position: absolute;
-	top: 0;
-	bottom: 30px;
-	left: 0;
-	right: 0;
+	height: 450px;
 	width: 100%;
-	font-size: 14px;
 }
 
 .form-footer {
@@ -73,8 +71,8 @@ body {
 	height: 30px;
 }
 
-.main_edit button {
-	font-size: 18px;
+.main-edit button {
+	font-size: 16px;
 }
 
 .history-table {
