@@ -57,10 +57,12 @@ body {
 
 .main-edit textarea {
 	position: absolute;
-	width: 500px;
-	height: 400px;
-	font-size: 17px;
-	font-family: monospace;
+	top: 0;
+	bottom: 30px;
+	left: 0;
+	right: 0;
+	width: 100%;
+	font-size: 14px;
 }
 
 .form-footer {
