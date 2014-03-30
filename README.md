@@ -11,8 +11,7 @@ These are my final project files for <a href="https://www.udacity.com/course/cs2
 - **Bonus**: Each page should include a history of edits
 
 ####Details
-Created using Python, webapp2 framework, Jinja2 templating, hosted on Google App Engine
+Created using Python 2.7, webapp2 framework, Jinja2 templating engine, hosted on Google App Engine
 
 ####Demo
-View the demo at <a href="http://wiki-aadams.appspot.com/">wiki-aadams.appspot.com</a>
-*Note: this demo may not be up-to-date with this repo.*
+View the demo at <a href="http://wiki-aadams.appspot.com/">wiki-aadams.appspot.com</a> *Note: demo may not be up-to-date with this repo.*
